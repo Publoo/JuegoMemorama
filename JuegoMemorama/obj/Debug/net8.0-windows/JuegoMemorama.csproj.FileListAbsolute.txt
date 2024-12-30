@@ -1,0 +1,16 @@
+C:\Users\pablo\source\repos\JuegoMemorama\JuegoMemorama\obj\Debug\net8.0-windows\JuegoMemorama.Form1.resources
+C:\Users\pablo\source\repos\JuegoMemorama\JuegoMemorama\obj\Debug\net8.0-windows\JuegoMemorama.csproj.GenerateResource.cache
+C:\Users\pablo\source\repos\JuegoMemorama\JuegoMemorama\obj\Debug\net8.0-windows\JuegoMemorama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\source\repos\JuegoMemorama\JuegoMemorama\obj\Debug\net8.0-windows\JuegoMemorama.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\JuegoMemorama\JuegoMemorama\obj\Debug\net8.0-windows\JuegoMemorama.AssemblyInfo.cs
+C:\Users\pablo\source\repos\JuegoMemorama\JuegoMemorama\obj\Debug\net8.0-windows\JuegoMemorama.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\JuegoMemorama\JuegoMemorama\bin\Debug\net8.0-windows\JuegoMemorama.exe
+C:\Users\pablo\source\repos\JuegoMemorama\JuegoMemorama\bin\Debug\net8.0-windows\JuegoMemorama.deps.json
+C:\Users\pablo\source\repos\JuegoMemorama\JuegoMemorama\bin\Debug\net8.0-windows\JuegoMemorama.runtimeconfig.json
+C:\Users\pablo\source\repos\JuegoMemorama\JuegoMemorama\bin\Debug\net8.0-windows\JuegoMemorama.dll
+C:\Users\pablo\source\repos\JuegoMemorama\JuegoMemorama\bin\Debug\net8.0-windows\JuegoMemorama.pdb
+C:\Users\pablo\source\repos\JuegoMemorama\JuegoMemorama\obj\Debug\net8.0-windows\JuegoMemorama.dll
+C:\Users\pablo\source\repos\JuegoMemorama\JuegoMemorama\obj\Debug\net8.0-windows\refint\JuegoMemorama.dll
+C:\Users\pablo\source\repos\JuegoMemorama\JuegoMemorama\obj\Debug\net8.0-windows\JuegoMemorama.pdb
+C:\Users\pablo\source\repos\JuegoMemorama\JuegoMemorama\obj\Debug\net8.0-windows\JuegoMemorama.genruntimeconfig.cache
+C:\Users\pablo\source\repos\JuegoMemorama\JuegoMemorama\obj\Debug\net8.0-windows\ref\JuegoMemorama.dll
